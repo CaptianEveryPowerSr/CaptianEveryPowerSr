@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on An AI Model Zero
+- 🔭 I’m currently working on An AI Model Zero <img src="https://github.com/user-attachments/assets/2a8d8133-5ac5-4b43-aca8-6a1ecbd55a36" height="50" />
 - 🌱 Always learning, especially in the AI and game dev world  
 - ⚡ Fun Fact: I Created a pretty Insane AI model in just 2 weeks
 
@@ -30,7 +30,9 @@
 
 ### 🐍 Watch the Snake eat your contributions
 
-![GitHub Snake Light](https://raw.githubusercontent.com/captaineverypowersr/captaineverypowersr/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
+
 
 ---
 
