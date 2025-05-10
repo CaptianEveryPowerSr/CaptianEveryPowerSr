@@ -21,7 +21,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptianEveryPowerSr&layout=compact&theme=radical%22%20alt=%22Top%20Language" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 </p>
 
 ---
