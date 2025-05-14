@@ -34,7 +34,7 @@
 
 ### 📫 Connect with me
 
-[![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephenstrangeonsteroids@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTLGSjHJqVJlsmxGLDHqQCGSwSbfchRlpqZcQpjppWzkbGBMbdfFqLgZWpVfZJvKKcMqKg)
 
 ---
 
