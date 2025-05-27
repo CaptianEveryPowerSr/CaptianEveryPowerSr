@@ -1,5 +1,4 @@
-<h1 align="left">Hey there! 👋 I'm Aryan Bansal</h1>
-
+<h1 align="left">Hey there! 👋 I'm Aryan Bansal <a href="http://www.free-iqtest.net" title="IQ Test"><img src="http://www.free-iqtest.net/images/badges2/l155.gif" width="100" height="50" alt="IQ Test" border="0"></a><br/><a title="IQ Test" href="http://www.free-iqtest.net"></a></h1> 
 <p align="left">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
