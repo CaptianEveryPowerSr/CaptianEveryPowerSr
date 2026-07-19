@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on An AI Model Zero <img src="https://github.com/user-attachments/assets/2a8d8133-5ac5-4b43-aca8-6a1ecbd55a36" height="50" /> (*He Is a Tragedy*)
+- 🔭 Robotics better
 - 🌱 Always learning, especially in the AI and game dev world  
 - ⚡ Fun Fact: I Created a pretty Insane AI model in just 2 weeks <img src="https://github.com/user-attachments/assets/43fab382-7294-4bce-b22d-0efa1ce5166c" height="50"/>
 
