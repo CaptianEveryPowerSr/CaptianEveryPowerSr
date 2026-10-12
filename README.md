@@ -8,8 +8,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 Robotics better
-- 🌱 Always learning, especially in the AI and game dev world  
-- ⚡ Fun Fact: I Created a pretty Insane AI model in just 2 weeks <img src="https://github.com/user-attachments/assets/43fab382-7294-4bce-b22d-0efa1ce5166c" height="50"/>
+- 🌱 Always learning
+- ⚡ Fun Fact: Socrates was the world's first ragebaiter
 
 ---
 
